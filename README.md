@@ -18,3 +18,5 @@ https://ojs.cvut.cz/ojs/index.php/gi/article/view/gi.17.2.2
 A simple Java-based implementation in Swing illustrates the above-mentioned principles and allows to plot several examples with discontinuities of the first and second kind.
 
 ![Image3](sampling_java.png)
+
+A sample graph of the function y = x / sin(x) involving discontinuities of the second kind.
