@@ -1,6 +1,6 @@
 ## Efficient plotting of functions with discontinuities based on combined sampling
 
-New algorithm for interval plotting of the function y = f(x) based on the combined sampling. The proposed method synthesizes uniform and adaptive csampling approaches and provides a more compat and efficient function representation. 
+New algorithm for interval plotting of the function y = f(x) based on the combined sampling. The proposed method synthesizes uniform and adaptive sampling approaches and provides a more compat and efficient function representation. 
 
 ![Image1](adaptive_sampling.png)
 
@@ -15,6 +15,6 @@ The original paper can be downloaded from
 https://ojs.cvut.cz/ojs/index.php/gi/article/view/gi.17.2.2
 
 ## Software
-A simple Java-based implementation in Swing illustrated the above-mentioned principles and allows to plot several examples with discontinuities of the first and second kind.
+A simple Java-based implementation in Swing illustrates the above-mentioned principles and allows to plot several examples with discontinuities of the first and second kind.
 
 ![Image3](sampling_java.png)
